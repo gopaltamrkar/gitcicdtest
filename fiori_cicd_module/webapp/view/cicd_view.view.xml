@@ -1,0 +1,13 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="fiorideve.fioricicdmodule.controller.cicd_view" displayBlock="true">
+    <Shell id="shell">
+        <App id="app">
+            <pages>
+                <Page id="HelloWorld" title="FioriApp_Test">
+                    <content>
+                        <Text xmlns="sap.m" text="Fiori_text" id="Fiori_text"/>
+                    </content>
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>
